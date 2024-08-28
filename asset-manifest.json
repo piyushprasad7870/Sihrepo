@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piyushprasad7870/Sihrepo.git/static/css/main.445be989.css",
+    "main.js": "/piyushprasad7870/Sihrepo.git/static/js/main.171a5573.js",
+    "static/js/453.3993b026.chunk.js": "/piyushprasad7870/Sihrepo.git/static/js/453.3993b026.chunk.js",
+    "index.html": "/piyushprasad7870/Sihrepo.git/index.html",
+    "main.445be989.css.map": "/piyushprasad7870/Sihrepo.git/static/css/main.445be989.css.map",
+    "main.171a5573.js.map": "/piyushprasad7870/Sihrepo.git/static/js/main.171a5573.js.map",
+    "453.3993b026.chunk.js.map": "/piyushprasad7870/Sihrepo.git/static/js/453.3993b026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445be989.css",
+    "static/js/main.171a5573.js"
+  ]
+}
